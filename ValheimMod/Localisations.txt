@@ -1,0 +1,9 @@
+TowerStone - 3
+TarPit - 3
+GoblinCamp - 2
+StoneHenge - 3
+ Mistlands_DvergrTownEntrance1
+ Mistlands_GuardTower3_ruined_new(Clone)
+ Mistlands_Excavation3(Clone)
+  Mistlands_GuardTower2_new(Clone)
+  Mistlands_Viaduct1(Clone)

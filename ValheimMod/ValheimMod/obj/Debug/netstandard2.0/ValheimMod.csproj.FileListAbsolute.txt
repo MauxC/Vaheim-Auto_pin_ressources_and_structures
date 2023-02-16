@@ -1,0 +1,17 @@
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netstandard2.0\ValheimMod.deps.json
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netstandard2.0\ValheimMod.dll
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netstandard2.0\ValheimMod.pdb
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netstandard2.0\0Harmony.dll
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netstandard2.0\assembly_valheim.dll
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netstandard2.0\BepInEx.dll
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netstandard2.0\UnityEngine.CoreModule.dll
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netstandard2.0\UnityEngine.dll
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\obj\Debug\netstandard2.0\ValheimMod.csproj.AssemblyReference.cache
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\obj\Debug\netstandard2.0\ValheimMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\obj\Debug\netstandard2.0\ValheimMod.AssemblyInfoInputs.cache
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\obj\Debug\netstandard2.0\ValheimMod.AssemblyInfo.cs
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\obj\Debug\netstandard2.0\ValheimMod.csproj.CoreCompileInputs.cache
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\obj\Debug\netstandard2.0\ValheimMod.csproj.CopyComplete
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\obj\Debug\netstandard2.0\ValheimMod.dll
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\obj\Debug\netstandard2.0\ValheimMod.pdb
+C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netstandard2.0\AMP_Configurable.dll
