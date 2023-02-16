@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoPinRessourcesAndStructures", "ValheimMod\AutoPinRessourcesAndStructures.csproj", "{ED04F0DB-35DA-4607-8D29-342142133215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED04F0DB-35DA-4607-8D29-342142133215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED04F0DB-35DA-4607-8D29-342142133215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED04F0DB-35DA-4607-8D29-342142133215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED04F0DB-35DA-4607-8D29-342142133215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01CBC7D5-92B3-41EC-BD34-033240A2B1E3}
+	EndGlobalSection
+EndGlobal
