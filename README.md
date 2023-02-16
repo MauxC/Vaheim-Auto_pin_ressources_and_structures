@@ -9,4 +9,4 @@ Place the .dll file in Steam\steamapps\common\Valheim\BepInEx\plugins.
 
 ## Configuration
 The mod will auto generate the configuration file if it doesn't exist yet in Steam\steamapps\common\Valheim\BepInEx\config.
-You can edit it to adjust the mod to your preferances.
+You can edit it to adjust the mod to your preferences.
