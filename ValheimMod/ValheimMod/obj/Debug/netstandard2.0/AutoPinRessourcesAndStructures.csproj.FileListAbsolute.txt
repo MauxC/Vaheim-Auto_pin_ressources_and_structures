@@ -2,7 +2,6 @@ C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netst
 C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netstandard2.0\AutoPinRessourcesAndStructures.dll
 C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netstandard2.0\AutoPinRessourcesAndStructures.pdb
 C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netstandard2.0\0Harmony.dll
-C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netstandard2.0\AMP_Configurable.dll
 C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netstandard2.0\assembly_valheim.dll
 C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netstandard2.0\BepInEx.dll
 C:\Users\ca31\Documents\GitHub\Valheim_Mod\ValheimMod\ValheimMod\bin\Debug\netstandard2.0\UnityEngine.CoreModule.dll

@@ -8,9 +8,6 @@
     <Reference Include="0Harmony">
       <HintPath>..\libs\0Harmony.dll</HintPath>
     </Reference>
-    <Reference Include="AMP_Configurable">
-      <HintPath>..\libs\AMP_Configurable.dll</HintPath>
-    </Reference>
     <Reference Include="assembly_valheim">
       <HintPath>..\libs\assembly_valheim.dll</HintPath>
     </Reference>
